@@ -45,8 +45,8 @@ I care about the math underneath the model working, not just calling `.fit()`.
   <img src="https://skillicons.dev/icons?i=python,pytorch,r,cpp,java,latex,git,linux,docker" />
 </p>
 
-**Data & Stats:** PyTorch · Scikit-Learn · NumPy · Pandas · SciPy · R (survival, ggplot2)
-**Math foundations:** Linear Algebra · Probability & Statistics · Graph Theory · Numerical Optimization
+**Data & Stats:** PyTorch · Scikit-Learn · NumPy · Pandas · SciPy · R
+**Math foundations:** Linear Algebra · Calculus · Probability & Statistics · Optimization · Graph Theory · Numerical Optimization · Discrete Math 
 
 <br>
 
@@ -67,8 +67,8 @@ I care about the math underneath the model working, not just calling `.fit()`.
 
 | Project | Focus | Stack |
 |---|---|---|
-| 🔗 *Learning to Rank* | Risk-sensitive ranking, NDCG@10 evaluation | Python, PyTorch |
-| 🔗 *Survival Analysis — Student Dropout* | Kaplan-Meier, Cox regression | R, Python |
+| 🔗 *Learning to Rank* | Risk-sensitive ranking | Python, PyTorch |
+| 🔗 *Survival Analysis — Student Dropout* | Kaplan-Meier, Cox regression, Stochastic Calculus | R, Python |
 
 <sub>*(Links go live as each IC repository is published this month.)*</sub>
 
