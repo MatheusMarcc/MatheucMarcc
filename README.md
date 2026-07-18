@@ -46,7 +46,7 @@ I care about the math underneath the model working, not just calling `.fit()`.
 </p>
 
 **Data & Stats:** PyTorch · Scikit-Learn · NumPy · Pandas · SciPy · R
-**Math foundations:** Linear Algebra · Calculus · Probability & Statistics · Optimization · Graph Theory · Numerical Optimization · Discrete Math 
+**Math foundations:** Linear Algebra · Calculus · Probability & Statistics · Stochastic Calculus · Optimization · Graph Theory · Numerical Optimization · Discrete Math 
 
 <br>
 
