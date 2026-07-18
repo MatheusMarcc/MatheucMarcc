@@ -20,7 +20,7 @@
 
 ### About
 
-I'm a CS undergraduate at **Instituto Federal de Goiás**, running two research projects.
+I'm a CS undergraduate at **Federal Institute of Goiás**, running two research projects.
 
 - 🎯 **Learning to Rank** — risk-sensitive optimization and adaptive loss functions for ranking models.
 - 📉 **Survival Analysis** — Kaplan-Meier, Nelson-Aalen, and Cox regression applied to modeling student dropout, in R and Python.
